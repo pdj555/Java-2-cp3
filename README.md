@@ -1,4 +1,4 @@
-# Class Notes Week X
+# Class Notes Week 5
 ## Down-Casting
 - instanceof tells whether an instance is a member of a class
 - code: if (s instanceof Triangle) { ...
